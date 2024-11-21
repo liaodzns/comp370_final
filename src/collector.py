@@ -18,7 +18,7 @@ def parse_arguments():
     args = parser.parse_args()
     
     # Calculate start date (1 month before end date)
-    start_date = args.end_date - timedelta(days=30)
+    start_date = args.end_date - timedelta(days=7)
     
     return args.movies, start_date.strftime('%Y-%m-%d'), args.end_date.strftime('%Y-%m-%d')
 
@@ -42,7 +42,7 @@ def fetch_articles(movie_title, max_articles=250):
             to=end_date,
             page_size=page_size,
             page=page,
-            sort_by='relevancy'
+            sort_by='publishedAt'
         )
 
         if 'articles' in response:
