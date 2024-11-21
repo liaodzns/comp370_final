@@ -73,6 +73,6 @@ if __name__ == '__main__':
     main()
 
 
-# Use case: python collector.py "The Batman" 
-#           python collector.py "The Batman" "Dune"
-#           python collector.py "The Batman" --end-date 2024-11-10
+# Use case: python src/collector.py "The Batman" 
+#           python src/collector.py "The Batman" "Dune"
+#           python src/collector.py "The Batman" --end-date 2024-11-10
