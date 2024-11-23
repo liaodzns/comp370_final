@@ -1,14 +1,14 @@
 import json
 
-def add_category_to_json(file_path, output_path, category_placeholder="Uncategorized"):
+def add_category_to_json(file_path, output_path, movie_name, category_placeholder="Uncategorized"):
     try:
         # Load the JSON data from the file
         with open(file_path, 'r') as file:
             data = json.load(file)
         
         # Add the 'category' field to each entry
-        if "Venom" in data:
-            for entry in data["Venom"]:
+        if movie_name in data:
+            for entry in data["movie_name"]:
                 entry["category"] = category_placeholder
         
         # Save the updated data to a new file
@@ -22,8 +22,9 @@ def add_category_to_json(file_path, output_path, category_placeholder="Uncategor
 
 # input and output file paths
 # not using argparse for this - just press the RUN button
-input_file = "venom_2024_10_31.json"  # Replace with the actual file path
-output_file = "venom_2024_10_31_updated.json"  # Replace with the desired output file path
+movie_name = ""
+input_file = "*.json"  # Replace with the actual file path
+output_file = f"{input_file}_updated.json"  # Replace with the desired output file path
 
 # Add the category field
-add_category_to_json(input_file, output_file)
+add_category_to_json(input_file, output_file, movie_name)
