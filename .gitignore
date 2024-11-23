@@ -1,5 +1,4 @@
 env/
 node_modules/
 *.pdf
-data/*_*.json
 data/raw/
