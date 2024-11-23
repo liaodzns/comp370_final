@@ -25,7 +25,7 @@ def parse_arguments():
 # Replace hardcoded parameters with parsed arguments
 movie_titles, start_date, end_date = parse_arguments()
 page_size = 1  # Max articles per request
-daily_request_limit = 50 # Limit based on API allowance
+daily_request_limit = 100 # Limit based on API allowance
 articles_per_movie = daily_request_limit // len(movie_titles)
 
 # Function to fetch articles with rate limit considerations
@@ -42,7 +42,7 @@ def fetch_articles(movie_title, max_articles=250):
             to=end_date,
             page_size=page_size,
             page=page,
-            sort_by='publishedAt'
+            sort_by='relevancy'
         )
 
         if 'articles' in response:
