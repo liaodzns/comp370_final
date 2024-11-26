@@ -1,0 +1,338 @@
+{
+    "Other films": [
+        {
+            "term": "box",
+            "score": 0.0749
+        },
+        {
+            "term": "office",
+            "score": 0.0736
+        },
+        {
+            "term": "new",
+            "score": 0.0679
+        },
+        {
+            "term": "film",
+            "score": 0.0664
+        },
+        {
+            "term": "best",
+            "score": 0.0489
+        },
+        {
+            "term": "weekend",
+            "score": 0.0488
+        },
+        {
+            "term": "films",
+            "score": 0.0487
+        },
+        {
+            "term": "review",
+            "score": 0.0483
+        },
+        {
+            "term": "post",
+            "score": 0.046
+        },
+        {
+            "term": "awards",
+            "score": 0.0415
+        }
+    ],
+    "Unrelated articles": [
+        {
+            "term": "new",
+            "score": 0.0641
+        },
+        {
+            "term": "marvel",
+            "score": 0.0503
+        },
+        {
+            "term": "removed",
+            "score": 0.0446
+        },
+        {
+            "term": "week",
+            "score": 0.041
+        },
+        {
+            "term": "first",
+            "score": 0.0359
+        },
+        {
+            "term": "november",
+            "score": 0.0336
+        },
+        {
+            "term": "trump",
+            "score": 0.0319
+        },
+        {
+            "term": "space",
+            "score": 0.0314
+        },
+        {
+            "term": "one",
+            "score": 0.0298
+        },
+        {
+            "term": "post",
+            "score": 0.029
+        }
+    ],
+    "Performance": [
+        {
+            "term": "box",
+            "score": 0.1222
+        },
+        {
+            "term": "office",
+            "score": 0.1202
+        },
+        {
+            "term": "weekend",
+            "score": 0.1042
+        },
+        {
+            "term": "million",
+            "score": 0.0766
+        },
+        {
+            "term": "tom",
+            "score": 0.0662
+        },
+        {
+            "term": "opening",
+            "score": 0.0586
+        },
+        {
+            "term": "film",
+            "score": 0.0541
+        },
+        {
+            "term": "awards",
+            "score": 0.0534
+        },
+        {
+            "term": "sony",
+            "score": 0.0495
+        },
+        {
+            "term": "second",
+            "score": 0.0475
+        }
+    ],
+    "Cast": [
+        {
+            "term": "film",
+            "score": 0.0679
+        },
+        {
+            "term": "new",
+            "score": 0.0641
+        },
+        {
+            "term": "madison",
+            "score": 0.0596
+        },
+        {
+            "term": "star",
+            "score": 0.056
+        },
+        {
+            "term": "fiennes",
+            "score": 0.0551
+        },
+        {
+            "term": "ralph",
+            "score": 0.0548
+        },
+        {
+            "term": "marvel",
+            "score": 0.0545
+        },
+        {
+            "term": "tom",
+            "score": 0.0524
+        },
+        {
+            "term": "mikey",
+            "score": 0.0502
+        },
+        {
+            "term": "actor",
+            "score": 0.0495
+        }
+    ],
+    "Review": [
+        {
+            "term": "movie",
+            "score": 0.0775
+        },
+        {
+            "term": "new",
+            "score": 0.0677
+        },
+        {
+            "term": "film",
+            "score": 0.055
+        },
+        {
+            "term": "best",
+            "score": 0.0522
+        },
+        {
+            "term": "man",
+            "score": 0.0515
+        },
+        {
+            "term": "sony",
+            "score": 0.0484
+        },
+        {
+            "term": "baker",
+            "score": 0.0474
+        },
+        {
+            "term": "one",
+            "score": 0.0464
+        },
+        {
+            "term": "tom",
+            "score": 0.0454
+        },
+        {
+            "term": "sean",
+            "score": 0.0453
+        }
+    ],
+    "Production": [
+        {
+            "term": "director",
+            "score": 0.1174
+        },
+        {
+            "term": "baker",
+            "score": 0.0923
+        },
+        {
+            "term": "sean",
+            "score": 0.0823
+        },
+        {
+            "term": "berger",
+            "score": 0.0778
+        },
+        {
+            "term": "film",
+            "score": 0.0728
+        },
+        {
+            "term": "movie",
+            "score": 0.0686
+        },
+        {
+            "term": "edward",
+            "score": 0.0662
+        },
+        {
+            "term": "ending",
+            "score": 0.0628
+        },
+        {
+            "term": "kelly",
+            "score": 0.0597
+        },
+        {
+            "term": "marcel",
+            "score": 0.0597
+        }
+    ],
+    "Credits": [
+        {
+            "term": "credits",
+            "score": 0.3183
+        },
+        {
+            "term": "post",
+            "score": 0.1929
+        },
+        {
+            "term": "scene",
+            "score": 0.1756
+        },
+        {
+            "term": "sony",
+            "score": 0.1345
+        },
+        {
+            "term": "end",
+            "score": 0.1298
+        },
+        {
+            "term": "scenes",
+            "score": 0.1298
+        },
+        {
+            "term": "second",
+            "score": 0.1079
+        },
+        {
+            "term": "spider",
+            "score": 0.0995
+        },
+        {
+            "term": "man",
+            "score": 0.097
+        },
+        {
+            "term": "trilogy",
+            "score": 0.0955
+        }
+    ],
+    "Duplicate": [
+        {
+            "term": "sony",
+            "score": 0.1153
+        },
+        {
+            "term": "next",
+            "score": 0.1071
+        },
+        {
+            "term": "awards",
+            "score": 0.1065
+        },
+        {
+            "term": "marvel",
+            "score": 0.1036
+        },
+        {
+            "term": "read",
+            "score": 0.0979
+        },
+        {
+            "term": "cataclysm",
+            "score": 0.0923
+        },
+        {
+            "term": "classic",
+            "score": 0.0923
+        },
+        {
+            "term": "put",
+            "score": 0.0874
+        },
+        {
+            "term": "nominees",
+            "score": 0.082
+        },
+        {
+            "term": "verse",
+            "score": 0.0804
+        }
+    ]
+}
