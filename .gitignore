@@ -2,3 +2,5 @@ env/
 node_modules/
 *.pdf
 data/raw/
+data/diagrams/pie_charts
+src/movie_category_distribution.py
