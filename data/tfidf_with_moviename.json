@@ -1,0 +1,338 @@
+{
+    "Other films": [
+        {
+            "term": "venom",
+            "score": 0.09
+        },
+        {
+            "term": "box",
+            "score": 0.0736
+        },
+        {
+            "term": "office",
+            "score": 0.0723
+        },
+        {
+            "term": "new",
+            "score": 0.0657
+        },
+        {
+            "term": "film",
+            "score": 0.0639
+        },
+        {
+            "term": "best",
+            "score": 0.047
+        },
+        {
+            "term": "weekend",
+            "score": 0.0465
+        },
+        {
+            "term": "review",
+            "score": 0.0465
+        },
+        {
+            "term": "films",
+            "score": 0.0463
+        },
+        {
+            "term": "post",
+            "score": 0.0455
+        }
+    ],
+    "Unrelated articles": [
+        {
+            "term": "venom",
+            "score": 0.0682
+        },
+        {
+            "term": "new",
+            "score": 0.0629
+        },
+        {
+            "term": "marvel",
+            "score": 0.0482
+        },
+        {
+            "term": "removed",
+            "score": 0.0446
+        },
+        {
+            "term": "conclave",
+            "score": 0.04
+        },
+        {
+            "term": "november",
+            "score": 0.0374
+        },
+        {
+            "term": "week",
+            "score": 0.034
+        },
+        {
+            "term": "first",
+            "score": 0.032
+        },
+        {
+            "term": "trump",
+            "score": 0.0314
+        },
+        {
+            "term": "space",
+            "score": 0.0306
+        }
+    ],
+    "Performance": [
+        {
+            "term": "venom",
+            "score": 0.171
+        },
+        {
+            "term": "box",
+            "score": 0.1186
+        },
+        {
+            "term": "office",
+            "score": 0.1171
+        },
+        {
+            "term": "weekend",
+            "score": 0.1018
+        },
+        {
+            "term": "million",
+            "score": 0.0749
+        },
+        {
+            "term": "tom",
+            "score": 0.0643
+        },
+        {
+            "term": "opening",
+            "score": 0.0575
+        },
+        {
+            "term": "film",
+            "score": 0.0536
+        },
+        {
+            "term": "awards",
+            "score": 0.0506
+        },
+        {
+            "term": "sony",
+            "score": 0.048
+        }
+    ],
+    "Cast": [
+        {
+            "term": "venom",
+            "score": 0.176
+        },
+        {
+            "term": "conclave",
+            "score": 0.067
+        },
+        {
+            "term": "film",
+            "score": 0.0652
+        },
+        {
+            "term": "anora",
+            "score": 0.0638
+        },
+        {
+            "term": "new",
+            "score": 0.0614
+        },
+        {
+            "term": "madison",
+            "score": 0.0554
+        },
+        {
+            "term": "ralph",
+            "score": 0.0534
+        },
+        {
+            "term": "fiennes",
+            "score": 0.053
+        },
+        {
+            "term": "star",
+            "score": 0.0526
+        },
+        {
+            "term": "marvel",
+            "score": 0.0513
+        }
+    ],
+    "Review": [
+        {
+            "term": "venom",
+            "score": 0.151
+        },
+        {
+            "term": "conclave",
+            "score": 0.1037
+        },
+        {
+            "term": "anora",
+            "score": 0.0787
+        },
+        {
+            "term": "movie",
+            "score": 0.0715
+        },
+        {
+            "term": "new",
+            "score": 0.0642
+        },
+        {
+            "term": "film",
+            "score": 0.0503
+        },
+        {
+            "term": "best",
+            "score": 0.0485
+        },
+        {
+            "term": "man",
+            "score": 0.0479
+        },
+        {
+            "term": "sony",
+            "score": 0.0459
+        },
+        {
+            "term": "baker",
+            "score": 0.0459
+        }
+    ],
+    "Production": [
+        {
+            "term": "venom",
+            "score": 0.1459
+        },
+        {
+            "term": "director",
+            "score": 0.1096
+        },
+        {
+            "term": "baker",
+            "score": 0.0879
+        },
+        {
+            "term": "anora",
+            "score": 0.0865
+        },
+        {
+            "term": "conclave",
+            "score": 0.0864
+        },
+        {
+            "term": "sean",
+            "score": 0.0782
+        },
+        {
+            "term": "berger",
+            "score": 0.0762
+        },
+        {
+            "term": "film",
+            "score": 0.0685
+        },
+        {
+            "term": "edward",
+            "score": 0.0644
+        },
+        {
+            "term": "movie",
+            "score": 0.064
+        }
+    ],
+    "Credits": [
+        {
+            "term": "venom",
+            "score": 0.3166
+        },
+        {
+            "term": "credits",
+            "score": 0.2685
+        },
+        {
+            "term": "post",
+            "score": 0.1835
+        },
+        {
+            "term": "scene",
+            "score": 0.1676
+        },
+        {
+            "term": "sony",
+            "score": 0.1299
+        },
+        {
+            "term": "end",
+            "score": 0.1262
+        },
+        {
+            "term": "scenes",
+            "score": 0.1252
+        },
+        {
+            "term": "second",
+            "score": 0.1046
+        },
+        {
+            "term": "spider",
+            "score": 0.0969
+        },
+        {
+            "term": "man",
+            "score": 0.0944
+        }
+    ],
+    "Duplicate": [
+        {
+            "term": "venom",
+            "score": 0.1555
+        },
+        {
+            "term": "awards",
+            "score": 0.1065
+        },
+        {
+            "term": "next",
+            "score": 0.0997
+        },
+        {
+            "term": "cataclysm",
+            "score": 0.0923
+        },
+        {
+            "term": "classic",
+            "score": 0.0923
+        },
+        {
+            "term": "sony",
+            "score": 0.092
+        },
+        {
+            "term": "read",
+            "score": 0.0866
+        },
+        {
+            "term": "marvel",
+            "score": 0.0848
+        },
+        {
+            "term": "nominees",
+            "score": 0.082
+        },
+        {
+            "term": "put",
+            "score": 0.0814
+        }
+    ]
+}
